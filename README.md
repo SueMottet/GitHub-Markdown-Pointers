@@ -1,4 +1,4 @@
-# GitHub Markdown Pointers
+# GitHub and Markdown Pointers
 
 ## Links
 Git Hub website https://github.com/
